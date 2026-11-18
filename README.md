@@ -2,7 +2,7 @@
 > **Cryptography and Network Security — Project-Based Learning (PBL)**
 
 > **Customization and maintenance: Akshit Arora**  
-> Original project source: https://github.com/ganeshnikhil/TLScope
+> 
 
 A polished, educational full-stack web application designed to demonstrate how **HTTPS/TLS certificates** are used for server authentication, cryptographic trust verification, and secure network communication.
 
